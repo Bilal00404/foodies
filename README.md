@@ -4,6 +4,8 @@
 
 Foodies is a website dedicated to promoting healthy eating habits. The homepage provides users with instant order feature. The goal is to encourage people to make healthier food choices.
 
+## Project URL
+Check out the live version of the project here: [foodies](https://foodies-order-now.netlify.app/)
 
 ## Project Screenshots
 
